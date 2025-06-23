@@ -1,0 +1,3 @@
+
+# ignora dados sensíveis de configuração do broker
+main/env.h
