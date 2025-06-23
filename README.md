@@ -2,7 +2,8 @@
 
 <div align="center">
 
-  [![Platform](https://img.shields.io/badge/platform-ESP8266-blue.svg)](https://www.espressif.com/en/products/socs/esp8266)
+  [![Platform: ESP8266](https://img.shields.io/badge/platform-ESP8266-blue.svg)](https://www.espressif.com/en/products/socs/esp8266)
+  [![Platform: ESP32](https://img.shields.io/badge/platform-ESP32-blue.svg)](https://www.espressif.com/en/products/socs/esp32)
   [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
   [![Arduino IDE](https://img.shields.io/badge/IDE-Arduino-orange.svg)](https://www.arduino.cc/en/software)
   [![MQTT HiveMQ Cloud](https://img.shields.io/badge/MQTT-HiveMQ%20Cloud-yellow.svg)](https://www.hivemq.com/mqtt-cloud-broker/)
