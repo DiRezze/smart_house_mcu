@@ -1,0 +1,3 @@
+# ignora os arquivos de configuração de IDEs
+.idea/
+.vscode/
